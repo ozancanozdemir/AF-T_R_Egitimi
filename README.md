@@ -13,6 +13,7 @@ Bu GitHub reposunda 14-15 Mayıs 2024 tarihleri arasında AFİT tarafından düz
 [2. Gün](https://github.com/ozancanozdemir/AFIT_R_Egitimi/tree/main/Gu%CC%88n2)
 
 - Swirl paketi, R içinde R öğren
+- Pipe operatörü
 - Kontrol Yapıları
 - Döngüler
 - Kendi Fonksiyonlarımızı Yazma
